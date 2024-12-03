@@ -144,8 +144,7 @@ body:
     attributes:
       label: Expected Announcement Date
       description: What is the expected announcement date for this project?
-      format: date
-    validations:
+   validations:
       required: true
 
   - type: dropdown
